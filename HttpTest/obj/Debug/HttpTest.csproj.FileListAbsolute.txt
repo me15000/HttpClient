@@ -2,3 +2,7 @@ E:\Visual Studio 2013\Projects\HttpTest\HttpTest\bin\Debug\HttpTest.exe
 E:\Visual Studio 2013\Projects\HttpTest\HttpTest\bin\Debug\HttpTest.pdb
 E:\Visual Studio 2013\Projects\HttpTest\HttpTest\obj\Debug\HttpTest.exe
 E:\Visual Studio 2013\Projects\HttpTest\HttpTest\obj\Debug\HttpTest.pdb
+C:\Users\IFHZ\Documents\GitHub\HttpClient\HttpTest\bin\Debug\HttpTest.exe
+C:\Users\IFHZ\Documents\GitHub\HttpClient\HttpTest\bin\Debug\HttpTest.pdb
+C:\Users\IFHZ\Documents\GitHub\HttpClient\HttpTest\obj\Debug\HttpTest.exe
+C:\Users\IFHZ\Documents\GitHub\HttpClient\HttpTest\obj\Debug\HttpTest.pdb
